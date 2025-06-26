@@ -4,22 +4,22 @@ Here is a to-do list to guide the revision of your paper.
 
 ## Section 1: Model-Centric Tuning
 
-- [ ] Explain the rationale for a model-centric tuning approach.
-- [ ] Detail how different representations of "heroes" and "items" were used and why this is important for the model.
+- [X] Explain the rationale for a model-centric tuning approach.
+- [X] Detail how different representations of "heroes" and "items" were used and why this is important for the model.
 
 ## Section 2: Foundational Concepts
 ### Machine Learning 
-- [ ] Reinforcement Learning Explanations
+- [X] Reinforcement Learning Explanations
 ### Hyperparameter Theory
 
-- [ ] Explain `min_samples_split`: what it is and how it prevents overfitting.
-- [ ] Explain `max_depth`: its role in controlling tree complexity and the bias-variance tradeoff.
-- [ ] Explain other relevant hyperparameters used in your model.
+- [X] Explain `min_samples_split`: what it is and how it prevents overfitting.
+- [X] Explain `max_depth`: its role in controlling tree complexity and the bias-variance tradeoff.
+- [X] Explain other relevant hyperparameters used in your model.
 
 ### Machine Learning Overview
 
-- [ ] Define and differentiate between Supervised, Unsupervised, and Reinforcement Learning.
-- [ ] Clarify that Random Forest is a Supervised Learning algorithm.
+- [X] Define and differentiate between Supervised, Unsupervised, and Reinforcement Learning.
+- [X] Clarify that Random Forest is a Supervised Learning algorithm.
 
 ### Random Forest Explained
 
