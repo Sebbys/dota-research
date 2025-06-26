@@ -8,7 +8,8 @@ Here is a to-do list to guide the revision of your paper.
 - [ ] Detail how different representations of "heroes" and "items" were used and why this is important for the model.
 
 ## Section 2: Foundational Concepts
-
+### Machine Learning 
+- [ ] Reinforcement Learning Explanations
 ### Hyperparameter Theory
 
 - [ ] Explain `min_samples_split`: what it is and how it prevents overfitting.
