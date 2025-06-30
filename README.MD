@@ -23,21 +23,21 @@ Here is a to-do list to guide the revision of your paper.
 
 ### Random Forest Explained
 
-- [ ] Provide a clear, step-by-step breakdown of how the Random Forest algorithm works, from bootstrapping to final prediction.
+- [X] Provide a clear, step-by-step breakdown of how the Random Forest algorithm works, from bootstrapping to final prediction.
 
 ### Formula Explanations
 
-- [ ] Explain the formula for Gini Impurity or Information Gain, and its role in splitting nodes.
-- [ ] Include the formula for how the final prediction is aggregated from individual trees.
+- [X] Explain the formula for Gini Impurity or Information Gain, and its role in splitting nodes.
+- [X] Include the formula for how the final prediction is aggregated from individual trees.
 
 ## Section 4: Experimentation and Metrics
 
 ### Performance Metrics
 
-- [ ] Define the "Accuracy" metric.
-- [ ] Discuss why accuracy was chosen as the evaluation metric for this project.
+- [X] Define the "Accuracy" metric.
+- [X] Discuss why accuracy was chosen as the evaluation metric for this project.
 
 ### Hyperparameter Tuning
 
-- [ ] Present the hyperparameter search space in a two-column table format (Parameter | Values/Range).
-- [ ] Describe the Random Search methodology and explain why it was used for hyperparameter tuning.
+- [X] Present the hyperparameter search space in a two-column table format (Parameter | Values/Range).
+- [X] Describe the Random Search methodology and explain why it was used for hyperparameter tuning.
