@@ -1,0 +1,18 @@
+{
+  "output_dir": "encoded_rfrs",
+  "train_shape": [
+    9463,
+    345
+  ],
+  "test_shape": [
+    2366,
+    345
+  ],
+  "processing_timestamp": "2025-06-23 14:37:55",
+  "data_files_used": {
+    "matches": "./../Data\\2024\\main_metadata.csv",
+    "players": "./../Data\\player_matches_aug_2024.csv",
+    "heroes": "./../Data\\Constants\\Constants.Heroes.csv",
+    "items": "./../Data\\Constants\\Constants.ItemIDs.csv"
+  }
+}
